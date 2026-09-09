@@ -1,0 +1,26 @@
+{
+  "game_id": "cd82-fb555c5d",
+  "short_name": "cd82",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 6.477,
+  "solver_script": "solve_cd82.py",
+  "solver_sha256": "319c789df771879013f2bc1c5d4f91d766966627ac92c967ab68d02889e2d978",
+  "output_sha256": "0177578c2a739c16d41a0c211f88937d1032b6fb1f2fc5c8e7b85ecb786ca088",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 2: levels_completed = 3, state = GameState.NOT_FINISHED",
+    "Level 3: found plan of 17 actions!",
+    "Level 3: levels_completed = 4, state = GameState.NOT_FINISHED",
+    "Level 4: found plan of 23 actions!",
+    "Level 4: levels_completed = 5, state = GameState.NOT_FINISHED",
+    "Level 5: found plan of 16 actions!",
+    "Level 5: levels_completed = 6, state = GameState.WIN",
+    "",
+    "CD82 Total Won: 6/6 in 5.21s, 104 actions!",
+    "*** CD82 100% OFFICIALLY WON LIVE END-TO-END! ***"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:09Z"
+}

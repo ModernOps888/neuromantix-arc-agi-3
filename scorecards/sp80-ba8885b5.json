@@ -1,0 +1,26 @@
+{
+  "game_id": "sp80-ba8885b5",
+  "short_name": "sp80",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.382,
+  "solver_script": "solve_sp80.py",
+  "solver_sha256": "31eb094bba51a9f51e74580d839f34c13e262ce504f5dabc51d624cb974da472",
+  "output_sha256": "26d97e92aadcb18b1d4b7f719120ee805b52e200019ded93bd2878f00f417eb0",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Spill finished in 0 ticks. Level is now: 5, state=GameState.NOT_FINISHED",
+    "",
+    "--- Level 5 ---",
+    "Spill finished in 100 ticks. Level is now: 5, state=GameState.WIN",
+    "",
+    "==========================================",
+    "FINAL GAME STATE: GameState.WIN",
+    "Total time elapsed: 0.17s",
+    "==========================================",
+    ">>> VICTORY: SP80 (GAME 14) 100% OFFICIALLY WON! <<<"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:38Z"
+}

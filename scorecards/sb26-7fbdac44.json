@@ -1,0 +1,26 @@
+{
+  "game_id": "sb26-7fbdac44",
+  "short_name": "sb26",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 7.791,
+  "solver_script": "solve_sb26.py",
+  "solver_sha256": "5cc2b5d6b1a7535a7c14a3ce87effc195794ab57338922a6fd7fd9a79fefce35",
+  "output_sha256": "d3c6a70bc022bf7a4ac26009c5a7e59959ba90afb89755a893090b53060cdffb",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Mean RHAE: 1.73x",
+    "  Level 0: 9 steps (Baseline: 18, RHAE: 2.00x)",
+    "  Level 1: 15 steps (Baseline: 28, RHAE: 1.87x)",
+    "  Level 2: 15 steps (Baseline: 18, RHAE: 1.20x)",
+    "  Level 3: 15 steps (Baseline: 19, RHAE: 1.27x)",
+    "  Level 4: 17 steps (Baseline: 31, RHAE: 1.82x)",
+    "  Level 5: 19 steps (Baseline: 23, RHAE: 1.21x)",
+    "  Level 6: 17 steps (Baseline: 58, RHAE: 3.41x)",
+    "  Level 7: 17 steps (Baseline: 18, RHAE: 1.06x)",
+    "=================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:35Z"
+}

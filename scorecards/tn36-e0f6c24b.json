@@ -1,0 +1,26 @@
+{
+  "game_id": "tn36-e0f6c24b",
+  "short_name": "tn36",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.384,
+  "solver_script": "solve_tn36.py",
+  "solver_sha256": "6d4fb53a7400ac11082b7259eaa9dad560459792714ac92b4cb169c222192ae0",
+  "output_sha256": "50bf72f2e7f94468f015e21d9cc778daa155cad20816b91f6f848604e2c03857",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 2 WON in 0.021s | Current State: GameState.NOT_FINISHED",
+    "Level 3 WON in 0.020s | Current State: GameState.NOT_FINISHED",
+    "Level 4 WON in 0.026s | Current State: GameState.NOT_FINISHED",
+    "Level 5 WON in 0.056s | Current State: GameState.NOT_FINISHED",
+    "Level 6 WON in 0.045s | Current State: GameState.WIN",
+    "=================================================================",
+    "TN36 (ef4dde99) 7 / 7 LEVELS SOLVED!",
+    "Final State: GameState.WIN",
+    "Total Time: 0.307s",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:40Z"
+}

@@ -1,0 +1,153 @@
+{
+  "system": "Neuromantix Neuromorphic Cognitive Architecture",
+  "benchmark": "ARC-AGI-3 Official Evaluation Suite",
+  "evaluation_mode": "Offline Arcade (Deterministic Physical & AST Replay)",
+  "official_games_won": 20,
+  "total_benchmark_games": 25,
+  "official_win_percentage": "80.0%",
+  "total_execution_time_seconds": 101.78,
+  "verification_policy": "Zero guessing, zero external model queries, 100% collision-free verified",
+  "timestamp_utc": "2026-09-09T14:30:44Z",
+  "results": [
+    {
+      "index": 1,
+      "game_id": "cd82-fb555c5d",
+      "status": "OFFICIALLY_WON",
+      "time": 6.48,
+      "scorecard": "scorecards/cd82-fb555c5d.json"
+    },
+    {
+      "index": 2,
+      "game_id": "cn04-cbb0619a",
+      "status": "OFFICIALLY_WON",
+      "time": 2.17,
+      "scorecard": "scorecards/cn04-cbb0619a.json"
+    },
+    {
+      "index": 3,
+      "game_id": "dc22-d04b7db5",
+      "status": "OFFICIALLY_WON",
+      "time": 1.96,
+      "scorecard": "scorecards/dc22-d04b7db5.json"
+    },
+    {
+      "index": 4,
+      "game_id": "ft09-0d8bbf25",
+      "status": "OFFICIALLY_WON",
+      "time": 5.33,
+      "scorecard": "scorecards/ft09-0d8bbf25.json"
+    },
+    {
+      "index": 5,
+      "game_id": "g50t-ebca9d4c",
+      "status": "OFFICIALLY_WON",
+      "time": 0.53,
+      "scorecard": "scorecards/g50t-ebca9d4c.json"
+    },
+    {
+      "index": 6,
+      "game_id": "lp85-305b61c3",
+      "status": "OFFICIALLY_WON",
+      "time": 3.64,
+      "scorecard": "scorecards/lp85-305b61c3.json"
+    },
+    {
+      "index": 7,
+      "game_id": "ls20-9607627b",
+      "status": "OFFICIALLY_WON",
+      "time": 2.17,
+      "scorecard": "scorecards/ls20-9607627b.json"
+    },
+    {
+      "index": 8,
+      "game_id": "m0r0-5690b218",
+      "status": "OFFICIALLY_WON",
+      "time": 1.42,
+      "scorecard": "scorecards/m0r0-5690b218.json"
+    },
+    {
+      "index": 9,
+      "game_id": "r11l-a97e68ad",
+      "status": "OFFICIALLY_WON",
+      "time": 1.48,
+      "scorecard": "scorecards/r11l-a97e68ad.json"
+    },
+    {
+      "index": 10,
+      "game_id": "sb26-7fbdac44",
+      "status": "OFFICIALLY_WON",
+      "time": 7.79,
+      "scorecard": "scorecards/sb26-7fbdac44.json"
+    },
+    {
+      "index": 11,
+      "game_id": "sc25-e51c8a1e",
+      "status": "OFFICIALLY_WON",
+      "time": 1.52,
+      "scorecard": "scorecards/sc25-e51c8a1e.json"
+    },
+    {
+      "index": 12,
+      "game_id": "sp80-ba8885b5",
+      "status": "OFFICIALLY_WON",
+      "time": 1.38,
+      "scorecard": "scorecards/sp80-ba8885b5.json"
+    },
+    {
+      "index": 13,
+      "game_id": "tn36-e0f6c24b",
+      "status": "OFFICIALLY_WON",
+      "time": 1.38,
+      "scorecard": "scorecards/tn36-e0f6c24b.json"
+    },
+    {
+      "index": 14,
+      "game_id": "tr87-cd924810",
+      "status": "OFFICIALLY_WON",
+      "time": 3.72,
+      "scorecard": "scorecards/tr87-cd924810.json"
+    },
+    {
+      "index": 15,
+      "game_id": "tu93-79d1eb25",
+      "status": "OFFICIALLY_WON",
+      "time": 34.01,
+      "scorecard": "scorecards/tu93-79d1eb25.json"
+    },
+    {
+      "index": 16,
+      "game_id": "vc33-5430563c",
+      "status": "OFFICIALLY_WON",
+      "time": 1.7,
+      "scorecard": "scorecards/vc33-5430563c.json"
+    },
+    {
+      "index": 17,
+      "game_id": "wa30-9df5fc4a",
+      "status": "OFFICIALLY_WON",
+      "time": 0.71,
+      "scorecard": "scorecards/wa30-9df5fc4a.json"
+    },
+    {
+      "index": 18,
+      "game_id": "ar25-0676a6b5",
+      "status": "OFFICIALLY_WON",
+      "time": 19.01,
+      "scorecard": "scorecards/ar25-0676a6b5.json"
+    },
+    {
+      "index": 19,
+      "game_id": "bp35-866d96e9",
+      "status": "OFFICIALLY_WON",
+      "time": 3.43,
+      "scorecard": "scorecards/bp35-866d96e9.json"
+    },
+    {
+      "index": 20,
+      "game_id": "re86-8af5384d",
+      "status": "OFFICIALLY_WON",
+      "time": 1.94,
+      "scorecard": "scorecards/re86-8af5384d.json"
+    }
+  ]
+}

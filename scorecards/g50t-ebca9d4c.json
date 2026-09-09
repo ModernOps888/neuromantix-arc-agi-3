@@ -1,0 +1,26 @@
+{
+  "game_id": "g50t-ebca9d4c",
+  "short_name": "g50t",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 0.532,
+  "solver_script": "solve_g50t.py",
+  "solver_sha256": "37fd744b330207029faf806e03e488457de898c05ca1388a255134ad8e0b8780",
+  "output_sha256": "0fb38d42bd481da46df84603a44a68e54d8076750a7ac94aa4b822a05fe85dff",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 3 WON! Score: 4, Level Index: 4, Time: 0.003s",
+    "Executing Level 4 (50 actions)...",
+    "Level 4 WON! Score: 5, Level Index: 5, Time: 0.004s",
+    "Executing Level 5 (49 actions)...",
+    "Level 5 WON! Score: 6, Level Index: 6, Time: 0.007s",
+    "Executing Level 6 (43 actions)...",
+    "Level 6 WON! Score: 8, Level Index: 6, Time: 0.006s",
+    "============================================================",
+    "FULL GAME WON: State=WIN, Score=8/7, Total Actions=286, Time=0.028s",
+    "============================================================"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:19Z"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "ls20-9607627b",
+  "short_name": "ls20",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 2.172,
+  "solver_script": "solve_ls20.py",
+  "solver_sha256": "769fea0c4e1427579ddc22ba73d963079fc676c43636435c0eea51b5fdb6d49c",
+  "output_sha256": "3344be2e0f6d5027df885578889d4dc33a45800b052e27bf4fcde1ba95c4f1b5",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Mean Superhuman RHAE: 2.36x",
+    "-----------------------------------------------------------------",
+    "  Level 0:  13 steps vs human  22 ( 1.69x RHAE) in 0.024s",
+    "  Level 1:  45 steps vs human 123 ( 2.73x RHAE) in 0.068s",
+    "  Level 2:  41 steps vs human  73 ( 1.78x RHAE) in 0.076s",
+    "  Level 3:  43 steps vs human  84 ( 1.95x RHAE) in 0.155s",
+    "  Level 4:  44 steps vs human  96 ( 2.18x RHAE) in 0.104s",
+    "  Level 5:  72 steps vs human 192 ( 2.67x RHAE) in 0.150s",
+    "  Level 6:  53 steps vs human 186 ( 3.51x RHAE) in 0.234s",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:25Z"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "vc33-5430563c",
+  "short_name": "vc33",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.7,
+  "solver_script": "solve_vc33.py",
+  "solver_sha256": "47dc3566f7fc84c820473536debb91a7e23e1006130eeb7afbf19593d4a68a91",
+  "output_sha256": "d5f58c4d23fbb49555db30ecbf8b2c1ff7f1f1330ba93bb34aeb17a1d031438e",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Mean Superhuman RHAE: 2.44x",
+    "-----------------------------------------------------------------",
+    "  Level 0:   3 clicks vs human   7 ( 2.33x RHAE) in 0.003s",
+    "  Level 1:   7 clicks vs human  18 ( 2.57x RHAE) in 0.007s",
+    "  Level 2:  23 clicks vs human  44 ( 1.91x RHAE) in 0.019s",
+    "  Level 3:  21 clicks vs human  61 ( 2.90x RHAE) in 0.024s",
+    "  Level 4:  49 clicks vs human 131 ( 2.67x RHAE) in 0.190s",
+    "  Level 5:  20 clicks vs human  34 ( 1.70x RHAE) in 0.057s",
+    "  Level 6:  51 clicks vs human 152 ( 2.98x RHAE) in 0.215s",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:30:19Z"
+}

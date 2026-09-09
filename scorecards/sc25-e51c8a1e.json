@@ -1,0 +1,26 @@
+{
+  "game_id": "sc25-e51c8a1e",
+  "short_name": "sc25",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.515,
+  "solver_script": "solve_sc25.py",
+  "solver_sha256": "013f13298e39220d822d7ee2824ff1b721b4f21f3bfa34456f34fd46ffdb83a4",
+  "output_sha256": "586e1db623fdd4e37906da13069c052313da6465a8e171608d1ee0bd1f3e525c",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "--- Level 4 ---",
+    "Level 4 complete! Current level index: 5",
+    "",
+    "--- Level 5 ---",
+    "Level 5 complete! Current level index: 5",
+    "",
+    "=================================================================",
+    "FINAL RESULT: Game State = GameState.WIN",
+    "Solved 6/6 Levels in 0.33 seconds!",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:37Z"
+}

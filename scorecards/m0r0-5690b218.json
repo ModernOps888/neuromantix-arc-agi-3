@@ -1,0 +1,26 @@
+{
+  "game_id": "m0r0-5690b218",
+  "short_name": "m0r0",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.424,
+  "solver_script": "solve_m0r0.py",
+  "solver_sha256": "444b59b21d65b10eeab963236c89d7e3bcb232e9e00e02020f667c858a975171",
+  "output_sha256": "58952df5b7f4577be5240764d74064063010b70d60377b5c643d5d421ac469e3",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "--- Level 4 ---",
+    "Level 4 complete! Current level index: 5",
+    "",
+    "--- Level 5 ---",
+    "Level 5 complete! Current level index: 5",
+    "",
+    "=================================================================",
+    "FINAL RESULT: Game State = GameState.WIN",
+    "Solved 6/6 Levels in 0.30 seconds!",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:26Z"
+}

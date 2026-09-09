@@ -1,0 +1,26 @@
+{
+  "game_id": "tr87-cd924810",
+  "short_name": "tr87",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 3.716,
+  "solver_script": "solve_tr87.py",
+  "solver_sha256": "ea3e522ad73f3b37021e5dd82927f6def54054838e806f0f24940dbc935e58ce",
+  "output_sha256": "04acfcc2676bcd870b0a7b7433f0f32320f8ec3a74b937d3a0ed719092a0805d",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Total Time: 0.388s | Total Steps: 145 (vs human baseline 414)",
+    "Mean Superhuman RHAE: 2.81x",
+    "------------------------------------------------------------",
+    "  Level 0:  14 steps vs human  54 ( 3.86x RHAE) in 0.042s",
+    "  Level 1:  25 steps vs human  58 ( 2.32x RHAE) in 0.071s",
+    "  Level 2:  21 steps vs human  40 ( 1.90x RHAE) in 0.054s",
+    "  Level 3:  21 steps vs human  45 ( 2.14x RHAE) in 0.103s",
+    "  Level 4:  24 steps vs human  71 ( 2.96x RHAE) in 0.055s",
+    "  Level 5:  40 steps vs human 146 ( 3.65x RHAE) in 0.063s",
+    "============================================================"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:43Z"
+}

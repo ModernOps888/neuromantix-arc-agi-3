@@ -1,0 +1,26 @@
+{
+  "game_id": "lp85-305b61c3",
+  "short_name": "lp85",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 3.636,
+  "solver_script": "solve_lp85.py",
+  "solver_sha256": "195429084f3f3e8e7079cd7ae78081ba91fe39c3646baa75d47a3fb38048cb45",
+  "output_sha256": "44cca60e0d138aa9f2fcdde470ee445112ff0b976f294f8515c54aa57bbbbfd9",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "--- Executing Level 7 (5 steps) ---",
+    "Level 7 WON! levels_completed = 8, steps = 5, human_baseline = 159, RHAE = 31.80x, time = 0.005s",
+    "",
+    "======================================================================",
+    "ALL 8 / 8 LEVELS OF LP85 WON (100% COMPLETE)!",
+    "Total Steps: 81 (vs Human Baseline: 388)",
+    "Overall LP85 Superhuman RHAE: 4.79x",
+    "Total Live Execution Time: 0.086s",
+    "Final Game State: GameState.WIN",
+    "======================================================================"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:22Z"
+}

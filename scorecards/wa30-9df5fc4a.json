@@ -1,0 +1,26 @@
+{
+  "game_id": "wa30-9df5fc4a",
+  "short_name": "wa30",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 0.708,
+  "solver_script": "solve_wa30.py",
+  "solver_sha256": "f208c464b1bdc8b712276add81f0bc265faf5c94ccd7e4b8c8696b9770fa4c32",
+  "output_sha256": "a0092c9a8d11e1457bcc50060be40deff90c859bf68422a0cda9ea1deca83248",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "  Step 46: Dropped item.",
+    "  No more reachable items for player. Waiting for helpers...",
+    "Level 2: WON = True, Steps = 80",
+    "Level 3: WON = True, Steps = 68",
+    "Level 4: WON = True, Steps = 125",
+    "Level 5: WON = True, Steps = 66",
+    "Level 6: WON = True, Steps = 48",
+    "Level 7: WON = True, Steps = 132",
+    "Level 8: WON = True, Steps = 65",
+    "WA30 Complete Game Result: ALL PASSED = True, Total Steps = 669"
+  ],
+  "timestamp_utc": "2026-09-09T14:30:20Z"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "dc22-d04b7db5",
+  "short_name": "dc22",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.963,
+  "solver_script": "solve_dc22.py",
+  "solver_sha256": "0dfc52a50b2e245876f182eba72a5a72cefe6f8c4502f749d90fcf9d4bd0ffe2",
+  "output_sha256": "17f4e612bb4f90c773497b0a5a9cc26fd0618758dbd623f1c84e83ba250ebc39",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 4 complete in 0.155s | Level index: 5",
+    "",
+    "--- Level 5 ---",
+    "Level 5 complete in 0.269s | Levels completed: 6 | Final State: GameState.WIN",
+    "",
+    "=================================================================",
+    "DC22 (fdcac232) 6 / 6 LEVELS SOLVED 100%!",
+    "Final Game State: GameState.WIN",
+    "Total Time: 0.658s",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:13Z"
+}

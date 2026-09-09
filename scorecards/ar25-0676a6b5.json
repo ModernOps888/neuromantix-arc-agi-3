@@ -1,0 +1,26 @@
+{
+  "game_id": "ar25-0676a6b5",
+  "short_name": "ar25",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 19.01,
+  "solver_script": "solve_ar25.py",
+  "solver_sha256": "fe58735816d02c3309307c04760fbf70a338f2189bdd6956c09bdbd6299ddde2",
+  "output_sha256": "5f8a83ea47769740ba9037fc349ecca8003640f712649282d2602bde6b5bd80e",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 2 COMPLETED in 77 actions | Baseline: 75 | RHAE: 0.97x",
+    "Level 3 COMPLETED in 24 actions | Baseline: 37 | RHAE: 1.54x",
+    "Level 4 COMPLETED in 43 actions | Baseline: 89 | RHAE: 2.07x",
+    "Level 5 COMPLETED in 92 actions | Baseline: 159 | RHAE: 1.73x",
+    "Level 6 COMPLETED in 59 actions | Baseline: 233 | RHAE: 3.95x",
+    "Level 7 COMPLETED in 97 actions | Baseline: 73 | RHAE: 0.75x",
+    "======================================================================",
+    "GAME AR25-0C556536 FULLY WON! Final State: GameState.WIN",
+    "Total actions: 423 | Total time: 17.85s",
+    "======================================================================"
+  ],
+  "timestamp_utc": "2026-09-09T14:30:39Z"
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": "cn04-cbb0619a",
+  "short_name": "cn04",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 2.173,
+  "solver_script": "solve_cn04.py",
+  "solver_sha256": "cd9830f8c51d29880a0a07dc2dd3b1d613ee8fd90a7b7cdd7e85530dd37fc0fd",
+  "output_sha256": "03648afc716f2838b4ba58467aaf5716388f11d83e82fdb4487f574c7bb25b6d",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "  Cycled stack to 0024qhluijbtoy",
+    "  Placed 0024qhluijbtoy at (3, 3), rot=90",
+    "  Cycled stack to 0031wgsgcgmmcx",
+    "  Placed 0031wgsgcgmmcx at (2, 8), rot=90",
+    "  Placed 0030bwvbcqnslb at (1, 1), rot=90",
+    "  Placed 0035cnwthztcfw at (8, 1), rot=90",
+    "  Placed 0036elhntsdonx at (1, 6), rot=90",
+    "Level 5 finished! rqolqpqwo=True, game_state=GameState.WIN",
+    "After transition: level_index=5, state=GameState.WIN",
+    "GAME WON CONGRATULATIONS!"
+  ],
+  "timestamp_utc": "2026-09-09T14:29:11Z"
+}

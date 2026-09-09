@@ -1,0 +1,26 @@
+{
+  "game_id": "ft09-0d8bbf25",
+  "short_name": "ft09",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 5.33,
+  "solver_script": "solve_ft09.py",
+  "solver_sha256": "b973daa85b3d9f060a0b65389ec9741c0fca321a8ab187a0f43d8887ab6d23e7",
+  "output_sha256": "9a23f1586a1da5237b03de833273bde2c2c9f92ef160871cef66aef7d5445710",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Levels Solved: 6/6",
+    "Total Execution Time: 1.11s",
+    "Mean RHAE: 3.63x",
+    "  Level 0: 4 steps (Baseline: 43, RHAE: 10.75x)",
+    "  Level 1: 7 steps (Baseline: 12, RHAE: 1.71x)",
+    "  Level 2: 14 steps (Baseline: 23, RHAE: 1.64x)",
+    "  Level 3: 16 steps (Baseline: 28, RHAE: 1.75x)",
+    "  Level 4: 21 steps (Baseline: 65, RHAE: 3.10x)",
+    "  Level 5: 13 steps (Baseline: 37, RHAE: 2.85x)",
+    "=================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:18Z"
+}

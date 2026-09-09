@@ -1,0 +1,26 @@
+{
+  "game_id": "r11l-a97e68ad",
+  "short_name": "r11l",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 1.481,
+  "solver_script": "solve_r11l.py",
+  "solver_sha256": "811dea737945f3a860111910dfb257b04752990be3e5c892fbdaa6c0f1af517f",
+  "output_sha256": "7e629a403cd445db9075163d33b0cf1904d8944531a65acb1b5857e479cccadd",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "",
+    "--- Solving Level 4 ---",
+    "Level 4 complete! Current level is now: 5",
+    "",
+    "--- Solving Level 5 ---",
+    "",
+    "=================================================================",
+    "R11L (495a7899) FULL GAME 100% WON IN 0.22s!",
+    "Final Game State: GameState.WIN",
+    "================================================================="
+  ],
+  "timestamp_utc": "2026-09-09T14:29:27Z"
+}
