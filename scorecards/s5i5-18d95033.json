@@ -1,0 +1,26 @@
+{
+  "game_id": "s5i5-18d95033",
+  "short_name": "s5i5",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 0.2,
+  "solver_script": "solve_s5i5.py",
+  "solver_sha256": "8a826d60b98bbd5afa7025b85d0dcd5e888318897fbbbe431f441a89139ceca2",
+  "output_sha256": "1400123b8132779faa85f8f3f4ca7fb33a13e2902aeac2a5fb6a89b9d8e927a3",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 1 completed: 2",
+    "Level 2 completed: 3",
+    "Level 3 completed: 4",
+    "Level 4 completed: 5",
+    "Level 5 completed: 6",
+    "Level 6 completed: 7",
+    "Level 7 completed: 8, State: GameState.WIN",
+    "",
+    "S5I5 Total Won: 8/8 in 0.20s, 252 actions!",
+    "*** S5I5 100% OFFICIALLY WON LIVE END-TO-END! ***"
+  ],
+  "timestamp_utc": "2026-09-09T16:47:40Z"
+}

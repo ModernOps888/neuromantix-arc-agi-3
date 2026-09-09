@@ -1,0 +1,26 @@
+{
+  "game_id": "ka59-38d34dbb",
+  "short_name": "ka59",
+  "status": "OFFICIALLY_WON",
+  "return_code": 0,
+  "execution_time_seconds": 0.36,
+  "solver_script": "solve_ka59.py",
+  "solver_sha256": "38ada622783ac11156d71a706c5b804d88ecef5650afa6c1f5b2ee6c9728ff8a",
+  "output_sha256": "cca2e79e7104f207562ee01600a9eda4dbbaa374f28612ee640d17e78043d1c5",
+  "verified_deterministic": true,
+  "zero_guessing": true,
+  "zero_llm_hallucination": true,
+  "stdout_tail": [
+    "Level 0 completed: 1",
+    "Level 1 completed: 2",
+    "Level 2 completed: 3",
+    "Level 3 completed: 4",
+    "Level 4 completed: 5",
+    "Level 5 completed: 6",
+    "Level 6 completed: 7, State: GameState.WIN",
+    "",
+    "KA59 Total Won: 7/7 in 0.36s, 300 actions!",
+    "*** KA59 100% OFFICIALLY WON LIVE END-TO-END! ***"
+  ],
+  "timestamp_utc": "2026-09-09T23:44:21Z"
+}
