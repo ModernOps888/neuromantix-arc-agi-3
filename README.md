@@ -138,7 +138,7 @@ python verify_submission.py
 
 In accordance with proprietary licensing agreements:
 - **Public Submission Repository**: Contains official verifiable JSON scorecards, benchmark summaries, and replay verification harnesses.
-- **Internal Core Repository**: Complete solver algorithmic engines and proprietary neuromorphic models are privately maintained at `https://github.com/ModernOps888/infinity-techstack`.
+- **Cognitive Engine & Model Weights**: Proprietary neuromorphic algorithmic engines and solver models are maintained under proprietary commercial license.
 
 ---
 
