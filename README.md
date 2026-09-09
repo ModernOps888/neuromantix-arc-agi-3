@@ -120,8 +120,8 @@ To independently verify all scorecards in this repository:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ModernOps888/neuromantix-arc-agi-3-submission.git
-cd neuromantix-arc-agi-3-submission
+git clone https://github.com/ModernOps888/neuromantix-arc-agi-3.git
+cd neuromantix-arc-agi-3
 
 # Run the official verification harness
 python verify_submission.py
